@@ -1,0 +1,30 @@
+body {
+    background-color: #e3e6f3; /* Un azul grisáceo elegante */
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+}
+
+.shadow-lg {
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    color: #263a6c; /* Azul formal */
+}
+
+.btn-dark {
+    background-color: #263a6c;
+    border: none;
+}
+
+.btn-dark:hover {
+    background-color: #1a2850;
+    transform: scale(1.05);
+    transition: 0.3s;
+}

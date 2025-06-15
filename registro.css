@@ -1,0 +1,27 @@
+body {
+  background-color: #f1ebeb;
+  font-family: 'Arial', sans-serif;
+}
+
+.form-container {
+  max-width: 700px;
+  margin: auto;
+  background: rgb(230, 170, 220);
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  color: #343a40;
+  font-size: 1.8rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+h3 {
+  color: #495057;
+  font-size: 1.4rem;
+  border-bottom: 2px solid #dee2e6;
+  padding-bottom: 5px;
+}
